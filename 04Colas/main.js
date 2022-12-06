@@ -65,3 +65,25 @@ console.log(colaAlumnos)
 console.log(colaAlumnos.descolar())
 console.log(colaAlumnos.descolar())
 console.log(colaAlumnos)
+//Checa si esta vacio mi queue y la longitud
+console.log(colaAlumnos.isEmpty())
+console.log(colaAlumnis.longitud())
+
+//RETO
+/*CREAR UNA COLA, QUE SIMULE CLIENTES DE UN BANCO, POSTERIORMENTE CREA UNA FUNCION QUE ATIENDA CADA CLIENTE, HASTA QUE LA COLA ESTE VACIA
+PARA SIMULAR EL SERVICIO DEL BANCO, USA setInterval, para ejecutar la funcion que atienda a cada cliente,
+
+funcion atenderckiente = (cola)=>{
+	si la cola no esta vacia {
+		console.log(despachando al cliente (primer cliente de la cola))
+		console.log(tales clientes siguen esperando)
+		console.log(cliente despachado, se va a su casa)
+	}
+	si la cola esta vacia{
+	console.log(la fila esta vacia)
+	}
+}
+
+*/
+
+
